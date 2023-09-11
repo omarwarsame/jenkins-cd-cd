@@ -132,7 +132,7 @@
   </head>
   <body>
     <div class="main-block">
-      <h3>Hillside DevOps Registration</h3>
+      <center><h3>Hillside DevOps Registration</h3></center>
       <form action="/">
         <hr>
         <div class="account-type">
