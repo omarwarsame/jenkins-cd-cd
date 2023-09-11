@@ -157,7 +157,7 @@
         </div>
         <hr>
         <div class="btn-block">
-          <p>Haddii aad riixdo register, waxaad ogolaatay heshiiskeena <a href="https://www.bbc.co.uk/news/uk-england-somerset-66772197">Privacy Policy for W3Docs</a>.</p>
+          <p>Haddii aad riixdo 'Gudbi', waxaad ogolaatay heshiiskeena <a href="https://www.bbc.co.uk/news/uk-england-somerset-66772197">Privacy Policy for W3Docs</a>.</p>
           <button type="submit" href="/">Gudbi</button>
         </div>
       </form>
