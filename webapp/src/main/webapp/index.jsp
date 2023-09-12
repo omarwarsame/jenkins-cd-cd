@@ -151,8 +151,8 @@
         <hr>
         <div class="gender">
           <input type="radio" value="none" id="male" name="gender" checked/>
-          <label for="male" class="radio">Rag</label>
-          <input type="radio" value="none" id="female" name="gender" />
+          <label for="male" class="radio">ilmo</label>
+          <input type="radio" value="none" id="waayeel" name="gender" />
           <label for="female" class="radio">Dumar</label>
         </div>
         <hr>
