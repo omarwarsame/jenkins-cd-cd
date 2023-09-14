@@ -157,7 +157,7 @@
         </div>
         <hr>
         <div class="btn-block">
-          <p>Once you click 'Submit', you agree on our T&Cs <a href="https://www.devnomadics.com>Privacy Policy for W3Docs</a>.</p>
+          <p>Once you click 'Submit', you agree on our T&Cs <a href="www.devnomadics">Devnomadics</a></p>
           <button type="submit" href="/">Submit</button>
         </div>
       </form>
