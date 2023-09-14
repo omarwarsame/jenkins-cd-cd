@@ -132,7 +132,7 @@
   </head>
   <body>
     <div class="main-block">
-      <center><img src="https://en.wikipedia.org/wiki/List_of_Somali_flags" alt="flagt"></center>
+      <center><img src="https://www.google.com/aclk?sa=l&ai=DChcSEwiUyKzG8amBAxWURkECHT6yCqsYABAFGgJ3cw&ase=2&gclid=CjwKCAjw3oqoBhAjEiwA_UaLtmPWUrR3zuWHr3pURDPag6pAyBsz2kBO8zSciTdDnZA3uuCZyhaHDBoCJCAQAvD_BwE&sig=AOD64_09-54IoTB70IptL1qriFnw1XEajQ&ctype=5&nis=6&adurl&ved=2ahUKEwijyJ_G8amBAxVJ_rsIHWVzDLQQvhd6BQgBEIUB" alt="flag"></center>
       <center><h3>Bulo Burte DevOps Consultants</h3></center>
       <form action="/">
         <hr>
