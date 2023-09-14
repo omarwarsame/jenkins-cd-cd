@@ -132,7 +132,7 @@
   </head>
   <body>
     <div class="main-block">
-      <center><h3>Hillside DevOps Registration</h3></center>
+      <center><h3>Bulo Burte DevOps Consultants</h3></center>
       <form action="/">
         <hr>
         <div class="account-type">
@@ -145,7 +145,7 @@
         <label id="icon" for="name"><i class="fas fa-envelope"></i></label>
         <input type="text" name="name" id="name" placeholder="Email" required/>
         <label id="icon" for="name"><i class="fas fa-user"></i></label>
-        <input type="text" name="name" id="name" placeholder="Magac" required/>
+        <input type="text" name="name" id="name" placeholder="Name" required/>
         <label id="icon" for="name"><i class="fas fa-unlock-alt"></i></label>
         <input type="password" name="name" id="name" placeholder="Password" required/>
         <hr>
