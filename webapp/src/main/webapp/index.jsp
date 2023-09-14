@@ -132,7 +132,7 @@
   </head>
   <body>
     <div class="main-block">
-      <center><img src="https://www.google.com/aclk?sa=l&ai=DChcSEwiUyKzG8amBAxWURkECHT6yCqsYABAFGgJ3cw&ase=2&gclid=CjwKCAjw3oqoBhAjEiwA_UaLtmPWUrR3zuWHr3pURDPag6pAyBsz2kBO8zSciTdDnZA3uuCZyhaHDBoCJCAQAvD_BwE&sig=AOD64_09-54IoTB70IptL1qriFnw1XEajQ&ctype=5&nis=6&adurl&ved=2ahUKEwijyJ_G8amBAxVJ_rsIHWVzDLQQvhd6BQgBEIUB" alt="flag"></center>
+      <center><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F78%2F11%2F96%2F781196600ffbb2d5c7980516ef39a136.jpg&tbnid=e8q5s6t0e9MT3M&vet=12ahUKEwijyJ_G8amBAxVJ_rsIHWVzDLQQMygGegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F581386633128724050%2F&docid=cYrlbwuA6AJ2ZM&w=630&h=630&q=somali%20flag&ved=2ahUKEwijyJ_G8amBAxVJ_rsIHWVzDLQQMygGegUIARC7AQ" alt="flag"></center>
       <center><h3>Bulo Burte DevOps Consultants</h3></center>
       <form action="/">
         <hr>
