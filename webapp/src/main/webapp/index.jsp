@@ -151,14 +151,14 @@
         <hr>
         <div class="gender">
           <input type="radio" value="none" id="male" name="gender" checked/>
-          <label for="male" class="radio">ilmo</label>
-          <input type="radio" value="none" id="waayeel" name="gender" />
-          <label for="female" class="radio">Dumar</label>
+          <label for="male" class="radio">Male</label>
+          <input type="radio" value="none" id="Female" name="gender" />
+          <label for="female" class="radio">Female</label>
         </div>
         <hr>
         <div class="btn-block">
-          <p>Haddii aad riixdo 'Gudbi', waxaad ogolaatay heshiiskeena <a href="https://www.bbc.co.uk/news/uk-england-somerset-66772197">Privacy Policy for W3Docs</a>.</p>
-          <button type="submit" href="/">Gudbi</button>
+          <p>Once you click 'Submit', you agree on our T&Cs <a href="https://www.devnomadics.com>Privacy Policy for W3Docs</a>.</p>
+          <button type="submit" href="/">Submit</button>
         </div>
       </form>
     </div>
