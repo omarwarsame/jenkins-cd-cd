@@ -1,2 +1,2 @@
-# jenkins-cd-cd
-Hillside
+# jenkins CI/CD
+Bulo Burte Consultants
