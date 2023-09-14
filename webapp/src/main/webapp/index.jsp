@@ -132,6 +132,7 @@
   </head>
   <body>
     <div class="main-block">
+      <center><img src="https://en.wikipedia.org/wiki/List_of_Somali_flags" alt="flagt"></center>
       <center><h3>Bulo Burte DevOps Consultants</h3></center>
       <form action="/">
         <hr>
